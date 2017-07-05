@@ -11,7 +11,7 @@ using namespace std;
 map<string,int> mv;
 map<string,int>::iterator it1;
 
-string char_to_binary(unsigned __int8 &x)
+string char_to_binary(unsigned __int8 &x)		//Conversion from character to it's corresponding ascii (in binary form) 
 {
 	string temp = "";
 	while(x)
