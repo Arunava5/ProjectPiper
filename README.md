@@ -1,5 +1,5 @@
 # ProjectPiper
-A program for textfile compression (by Huffman Coding)
+A program for textfile compression (by Huffman Coding).
 
 Inspired by the popular English TV Series "Silicon Valley".
 
