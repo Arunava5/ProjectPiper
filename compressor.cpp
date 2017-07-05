@@ -87,7 +87,7 @@ void HuffmanCodes(int data[], int freq[], int size)
     }
 
 
- // printCodes(minHeap.top(), "");
+ // printCodes(minHeap.top(), "");				//Uncomment to view the assigned codes
     genCodes(minHeap.top(),"");
 }
 
